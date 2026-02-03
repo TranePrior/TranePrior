@@ -15,6 +15,12 @@
 ---
 
 <h3 align="center">🧰 My stack</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,git,github" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,git,github,html" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Build-WebGL-E53935" />
+  <img src="https://img.shields.io/badge/DI-Zenject-8BC34A" />
 </p>
