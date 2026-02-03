@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Evgenii</h1>
+<p align="center">
+  Unity / C# developer • GameDev
+</p>
 
-<!--
-**TranePrior/TranePrior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://t.me/EvgeniiArL">
+    <img src="https://img.shields.io/badge/Telegram-@EvgeniiArL-2CA5E0?logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/evgenii-liakhovets/">
+    <img src="https://img.shields.io/badge/LinkedIn-Evgenii%20Liakhovets-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">🧰 My stack</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,git,github" />
+</p>
